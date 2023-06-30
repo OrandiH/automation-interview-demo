@@ -1,4 +1,4 @@
-# RD WebdriverIO Web Automation Template
+# WebdriverIO Web Automation Template
 
 Boilerplate for a web automation project using WebDriverIO v7, with examples of
 different types of testing scenarios.
